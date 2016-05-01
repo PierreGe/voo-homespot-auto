@@ -4,7 +4,9 @@ Automatic authentification to Voo Homespot and keep connection alive.
 
 ## Requirements
 `python 2.7 or 3.x`
+
 `requests`
+
 `daemon` (optional)
 
 ## Install
