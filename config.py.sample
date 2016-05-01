@@ -1,0 +1,5 @@
+# -*- coding: utf8 -*-
+
+
+USERNAME = "name@domain.com"
+PASSWORD = "azerty123"
