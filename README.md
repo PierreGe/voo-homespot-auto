@@ -13,6 +13,7 @@ Automatic authentification to Voo Homespot and keep connection alive.
 In a virtualenv
 
 `pip install -r requirements`
+
 `mv config.py.sample config.py``
 
 Write your user and password in the config.py file
