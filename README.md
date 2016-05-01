@@ -12,7 +12,7 @@ Automatic authentification to Voo Homespot and keep connection alive.
 ## Install
 In a virtualenv
 
-`pip install -r requirements`
+`pip install -r requirements.txt`
 
 `mv config.py.sample config.py``
 
